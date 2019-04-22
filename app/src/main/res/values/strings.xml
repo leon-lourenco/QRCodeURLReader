@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">JailtonCode</string>
+    <string name="app_name">Simple QRCode Reader</string>
+    <string name="pressione_o_bot_o_para_escanear">Pressione o botão para escanear</string>
+    <string name="leonardo_louren_o_2019">Leonardo Lourenço - 2019</string>
 </resources>
